@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #0e7490
-    
+
 }
 
 body {
@@ -95,10 +95,12 @@ hr {
 
 
 .nayan .nayan-heading {
+    text-align: center;
     padding-top: 1rem;
-    color: var(--primary-color)
+    color:darkslategrey;
 }
 
 .nayan .nayan-heading .heading-inverted {
-    color: var(--dark-blue);
+    color: var(--primary-color)
 }
+
