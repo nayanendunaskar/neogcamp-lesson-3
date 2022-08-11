@@ -2,7 +2,6 @@
 
 :root {
     --primary-color: #0e7490
-
 }
 
 body {
@@ -24,7 +23,7 @@ hr {
 }
 
 
-.link{
+.link {
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
@@ -32,7 +31,7 @@ hr {
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
-    color:aliceblue
+    color: aliceblue
 }
 
 .link-secondary {
@@ -49,7 +48,7 @@ hr {
     list-style: none;
 }
 
-.list-item-inline{
+.list-item-inline {
     display: inline;
     padding: 0rem 0.5rem;
 }
@@ -59,7 +58,7 @@ hr {
 
 .navigation {
     background-color: var(--primary-color);
-    color:aliceblue;
+    color: aliceblue;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
@@ -75,7 +74,7 @@ hr {
 
 
 .navigation .link {
-    color:aliceblue
+    color: aliceblue
 }
 
 .navigation .link-active {
@@ -97,10 +96,24 @@ hr {
 .nayan .nayan-heading {
     text-align: center;
     padding-top: 1rem;
-    color:darkslategrey;
+    color: darkslategrey;
 }
 
 .nayan .nayan-heading .heading-inverted {
     color: var(--primary-color)
+}
+
+
+.section {
+    padding: 2rem;
+}
+
+
+.section h1 {
+    text-align: center;
+}
+
+.ow {
+    background-color:azure;
 }
 
