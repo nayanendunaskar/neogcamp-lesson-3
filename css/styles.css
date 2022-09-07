@@ -141,3 +141,8 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.showcase-blogs {
+    padding-bottom: 6rem;
+    padding: 2rem;
+}
